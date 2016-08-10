@@ -44,7 +44,7 @@ public class MainClass {
         }
 
         System.out.println("POST " + person.toString());
-        System.out.println("GET " + source.toString());
+        System.out.println("GET ALL " + source.toString());
         System.out.println("GET " + source1.toString());
     }
 }
