@@ -1,0 +1,50 @@
+table {
+    width: 400px;
+    background-color: yellow;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    width: 100px;
+}
+
+body {
+    font-family: "Courier New";
+    background-color: blue;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+input {
+    background-color: aliceblue;
+}
+
+.forward_image {
+    width: 40px;
+    height: 40px;
+}
+
+.div_main_class {
+    width: 25%;
+    border: solid;
+}
+
+.block_inline {
+    margin-top: 20px;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+.block1 {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    width: 40%;
+    border: solid;
+}
